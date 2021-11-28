@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BmiApp-2021</string>
+    <string name="input_height_hint">Height(m):</string>
+    <string name="input_weight_hint">Weight(kg):</string>
+    <string name="button_calculate_text">Calculate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
